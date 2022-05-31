@@ -1,0 +1,9 @@
+{
+	"type": "module",
+	"version": "0.1.0",
+	"name": "stylelint-config-hyperupcall",
+	"main": "./src/index.js",
+	"peerDependencies": {
+		"stylelint": "^7.0.0 || ^8.0.0"
+	}
+}
