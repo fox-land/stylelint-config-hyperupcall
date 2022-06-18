@@ -4,6 +4,12 @@
 	"name": "stylelint-config-hyperupcall",
 	"main": "./src/index.js",
 	"peerDependencies": {
-		"stylelint": "^7.0.0 || ^8.0.0"
+		"stylelint": "^14.0.0"
+	},
+	"dependencies": {
+		"stylelint-config-standard": "^26.0.0"
+	},
+	"devDependencies": {
+		"stylelint": "^14.9.1"
 	}
 }

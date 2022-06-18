@@ -1,3 +1,11 @@
 # stylelint-config-hyperupcall
 
-StyleLint config for hyperupcall
+Edwin's Stylelint configuration
+
+## Usage
+
+```json
+{
+	"extends": ["stylelint-config-hyperupcall"]
+}
+```
